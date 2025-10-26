@@ -1,7 +1,7 @@
 import numpy as np
 from collections import Counter
-from LOTlib.DataAndObjects import FunctionData
-from LOTlib.Miscellaneous import logsumexp, Infinity, weighted_sample
+from LOTlib3.DataAndObjects import FunctionData
+from LOTlib3.Miscellaneous import logsumexp, Infinity, weighted_sample
 from copy import deepcopy
 
 def compute_all_strings(l, alphabet='ab'):
@@ -27,7 +27,7 @@ class FormalLanguage(object):
     def sample_data(self, n):
         # Sample a string of data
         cnt = Counter()
-        for _ in xrange(n):
+        for _ in range(n):
             cnt[self.sample_string()] += 1
 
         return [FunctionData(input=[], output=cnt, alpha=self.ALPHA)]

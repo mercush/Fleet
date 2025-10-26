@@ -1,0 +1,3 @@
+[submodule "Models/FormalLanguageTheory-Complex/Languages/LOTlib3"]
+	path = Models/FormalLanguageTheory-Complex/Languages/LOTlib3
+	url = https://github.com/piantado/LOTlib3.git

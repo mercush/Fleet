@@ -1,0 +1,73 @@
+{
+  "canary": "",
+  "id": "Saffran",
+  "program": "",
+  "data": [
+    {
+      "i": [],
+      "o": [
+        "tprPDT"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "PDT"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "PDT"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "tprPDTPDTglbPDT"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "glbglbBdk"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "PDTglbPDTPDT"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "PDTtprPDT"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "BdkglbBdkglbtprglb"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "glbPDT"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "PDTglb"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "tprglbBdk"
+      ]
+    }
+  ]
+}

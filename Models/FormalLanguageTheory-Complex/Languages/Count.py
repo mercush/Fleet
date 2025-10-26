@@ -1,6 +1,6 @@
 import itertools
 from FormalLanguage import FormalLanguage
-from LOTlib.Grammar import Grammar
+from LOTlib3.Grammar import Grammar
 
 class Count(FormalLanguage):
     """
@@ -34,9 +34,38 @@ class Count(FormalLanguage):
 
 # just for testing
 if __name__ == '__main__':
-    language = Count()
-    print language.sample_data(10000)
+    import json
+    import os
+    import argparse
 
-    for i, s in enumerate(language.all_strings()):
-        print s
-        if i> 10: break
+    parser = argparse.ArgumentParser(description='Generate language examples')
+    parser.add_argument('-n', '--num-examples', type=int, default=11,
+                        help='Number of examples to generate (default: 11)')
+    args = parser.parse_args()
+
+    language = Count()
+    data_output = language.sample_data(args.num_examples)
+
+    # Extract strings from Counter and create example list
+    counter = data_output[0].output
+    examples = []
+    for string, count in counter.items():
+        for _ in range(count):
+            examples.append({"i": [], "o": [string]})
+            if len(examples) >= args.num_examples:
+                break
+        if len(examples) >= args.num_examples:
+            break
+
+    # Create JSON structure
+    result = {
+        "canary": "",
+        "id": "Count",
+        "program": "",
+        "data": examples[:args.num_examples]
+    }
+
+    # Write to JSON file
+    os.makedirs("json", exist_ok=True)
+    with open("json/Count.json", "w") as f:
+        json.dump(result, f, indent=2)

@@ -1,7 +1,7 @@
 import itertools
-from LOTlib.Miscellaneous import partitions
+from LOTlib3.Miscellaneous import partitions
 from FormalLanguage import FormalLanguage
-from LOTlib.Grammar import Grammar
+from LOTlib3.Grammar import Grammar
 
 class AnBmCnDm(FormalLanguage):
     def __init__(self):
@@ -17,10 +17,10 @@ class AnBmCnDm(FormalLanguage):
         return list('abcd')
 
     def sample_string(self):
-		a = str(self.grammarA.generate())
-		b = str(self.grammarB.generate())
-		return a+b+('c'*len(a))+('d'*len(b))
-		
+        a = str(self.grammarA.generate())
+        b = str(self.grammarB.generate())
+        return a+b+('c'*len(a))+('d'*len(b))
+
     def all_strings(self):
         for r in itertools.count(1):
             for n,m in partitions(r, 2, 1): # partition into two groups (NOTE: does not return both orders)
@@ -30,5 +30,38 @@ class AnBmCnDm(FormalLanguage):
 
 # just for testing
 if __name__ == '__main__':
+    import json
+    import os
+    import argparse
+
+    parser = argparse.ArgumentParser(description='Generate language examples')
+    parser.add_argument('-n', '--num-examples', type=int, default=11,
+                        help='Number of examples to generate (default: 11)')
+    args = parser.parse_args()
+
     language = AnBmCnDm()
-    print language.sample_data(10000)
+    data_output = language.sample_data(args.num_examples)
+
+    # Extract strings from Counter and create example list
+    counter = data_output[0].output
+    examples = []
+    for string, count in counter.items():
+        for _ in range(count):
+            examples.append({"i": [], "o": [string]})
+            if len(examples) >= args.num_examples:
+                break
+        if len(examples) >= args.num_examples:
+            break
+
+    # Create JSON structure
+    result = {
+        "canary": "",
+        "id": "AnBmCnDm",
+        "program": "",
+        "data": examples[:args.num_examples]
+    }
+
+    # Write to JSON file
+    os.makedirs("json", exist_ok=True)
+    with open("json/AnBmCnDm.json", "w") as f:
+        json.dump(result, f, indent=2)

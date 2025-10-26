@@ -1,0 +1,73 @@
+{
+  "canary": "",
+  "id": "ChineseNumeral",
+  "program": "",
+  "data": [
+    {
+      "i": [],
+      "o": [
+        "abbbbbbbabbb"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "abbbb"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "ab"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "ab"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "abbbbbbbbabbbbbbbabbbb"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "abbab"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "abbab"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "abbbbbbbbabbbb"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "abbbbbbbbabbbbbb"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "abbb"
+      ]
+    },
+    {
+      "i": [],
+      "o": [
+        "abbbbbbbbbbbabbbbabb"
+      ]
+    }
+  ]
+}
