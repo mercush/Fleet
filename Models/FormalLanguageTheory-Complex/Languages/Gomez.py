@@ -60,7 +60,7 @@ if __name__ == '__main__':
     examples = []
     for string, count in counter.items():
         for _ in range(count):
-            examples.append({"i": [], "o": [string]})
+            examples.append({"o": string})
             if len(examples) >= args.num_examples:
                 break
         if len(examples) >= args.num_examples:
@@ -71,6 +71,7 @@ if __name__ == '__main__':
         "canary": "",
         "id": "Gomez",
         "program": "",
+        "alphabet": "abcde1234567890wxyz",
         "data": examples[:args.num_examples]
     }
 

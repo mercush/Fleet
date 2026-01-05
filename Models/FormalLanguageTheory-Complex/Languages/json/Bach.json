@@ -2,72 +2,40 @@
   "canary": "",
   "id": "Bach",
   "program": "",
+  "alphabet": "abcd",
   "data": [
     {
-      "i": [],
-      "o": [
-        "cbcbcbbaaaca"
-      ]
+      "o": "cab"
     },
     {
-      "i": [],
-      "o": [
-        "cba"
-      ]
+      "o": "cabcbbcbacaaccbaba"
     },
     {
-      "i": [],
-      "o": [
-        "acb"
-      ]
+      "o": "aabccbbca"
     },
     {
-      "i": [],
-      "o": [
-        "acabbc"
-      ]
+      "o": "bcbcbcaaa"
     },
     {
-      "i": [],
-      "o": [
-        "acabbc"
-      ]
+      "o": "acacbb"
     },
     {
-      "i": [],
-      "o": [
-        "acabbc"
-      ]
+      "o": "abbcca"
     },
     {
-      "i": [],
-      "o": [
-        "caaacbcbbabcbcaaabacabbcbcc"
-      ]
+      "o": "cbbacaacb"
     },
     {
-      "i": [],
-      "o": [
-        "bca"
-      ]
+      "o": "acb"
     },
     {
-      "i": [],
-      "o": [
-        "abc"
-      ]
+      "o": "bbacacbbacac"
     },
     {
-      "i": [],
-      "o": [
-        "abc"
-      ]
+      "o": "bccbaa"
     },
     {
-      "i": [],
-      "o": [
-        "bccaabbca"
-      ]
+      "o": "ababcc"
     }
   ]
 }

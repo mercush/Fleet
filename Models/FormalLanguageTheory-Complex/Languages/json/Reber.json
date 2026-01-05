@@ -2,72 +2,40 @@
   "canary": "",
   "id": "Reber",
   "program": "",
+  "alphabet": "PSTVX",
   "data": [
     {
-      "i": [],
-      "o": [
-        "VVS"
-      ]
+      "o": "VVPXVS"
     },
     {
-      "i": [],
-      "o": [
-        "VVS"
-      ]
+      "o": "TTXVS"
     },
     {
-      "i": [],
-      "o": [
-        "VVS"
-      ]
+      "o": "VXVS"
     },
     {
-      "i": [],
-      "o": [
-        "VVS"
-      ]
+      "o": "TPPTS"
     },
     {
-      "i": [],
-      "o": [
-        "VVPS"
-      ]
+      "o": "TPTXVS"
     },
     {
-      "i": [],
-      "o": [
-        "VVPS"
-      ]
+      "o": "VVS"
     },
     {
-      "i": [],
-      "o": [
-        "VVPXVS"
-      ]
+      "o": "VVS"
     },
     {
-      "i": [],
-      "o": [
-        "VXXXXXXXXVS"
-      ]
+      "o": "TTS"
     },
     {
-      "i": [],
-      "o": [
-        "TPPTXVPS"
-      ]
+      "o": "TPTS"
     },
     {
-      "i": [],
-      "o": [
-        "TTXVPXXXXVPS"
-      ]
+      "o": "VXXVS"
     },
     {
-      "i": [],
-      "o": [
-        "TTXXVS"
-      ]
+      "o": "VXXVS"
     }
   ]
 }

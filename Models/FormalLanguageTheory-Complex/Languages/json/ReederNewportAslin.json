@@ -2,72 +2,40 @@
   "canary": "",
   "id": "ReederNewportAslin",
   "program": "",
+  "alphabet": "aAsbBnxXcqQrR",
   "data": [
     {
-      "i": [],
-      "o": [
-        "AXb"
-      ]
+      "o": "Qacbr"
     },
     {
-      "i": [],
-      "o": [
-        "AXb"
-      ]
+      "o": "scn"
     },
     {
-      "i": [],
-      "o": [
-        "Acnr"
-      ]
+      "o": "AXBr"
     },
     {
-      "i": [],
-      "o": [
-        "Acnr"
-      ]
+      "o": "axnr"
     },
     {
-      "i": [],
-      "o": [
-        "aXB"
-      ]
+      "o": "qacb"
     },
     {
-      "i": [],
-      "o": [
-        "qaxbR"
-      ]
+      "o": "QAxBr"
     },
     {
-      "i": [],
-      "o": [
-        "AxB"
-      ]
+      "o": "QAxBr"
     },
     {
-      "i": [],
-      "o": [
-        "qscB"
-      ]
+      "o": "Qsxb"
     },
     {
-      "i": [],
-      "o": [
-        "axbr"
-      ]
+      "o": "AXbr"
     },
     {
-      "i": [],
-      "o": [
-        "Acb"
-      ]
+      "o": "qsxBR"
     },
     {
-      "i": [],
-      "o": [
-        "aXnR"
-      ]
+      "o": "acB"
     }
   ]
 }

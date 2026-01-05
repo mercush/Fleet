@@ -2,72 +2,40 @@
   "canary": "",
   "id": "MorganNewport",
   "program": "",
+  "alphabet": "ACDEF",
   "data": [
     {
-      "i": [],
-      "o": [
-        "ACF"
-      ]
+      "o": "ACFCD"
     },
     {
-      "i": [],
-      "o": [
-        "ADCFCD"
-      ]
+      "o": "ACFCD"
     },
     {
-      "i": [],
-      "o": [
-        "ACDF"
-      ]
+      "o": "ADCFCD"
     },
     {
-      "i": [],
-      "o": [
-        "AECD"
-      ]
+      "o": "ACF"
     },
     {
-      "i": [],
-      "o": [
-        "ACDFCD"
-      ]
+      "o": "ACDF"
     },
     {
-      "i": [],
-      "o": [
-        "AE"
-      ]
+      "o": "ADCF"
     },
     {
-      "i": [],
-      "o": [
-        "ADE"
-      ]
+      "o": "ACDFC"
     },
     {
-      "i": [],
-      "o": [
-        "ADE"
-      ]
+      "o": "ADCDF"
     },
     {
-      "i": [],
-      "o": [
-        "ADCF"
-      ]
+      "o": "AE"
     },
     {
-      "i": [],
-      "o": [
-        "ACFCD"
-      ]
+      "o": "AEC"
     },
     {
-      "i": [],
-      "o": [
-        "ADCDFCD"
-      ]
+      "o": "AEC"
     }
   ]
 }

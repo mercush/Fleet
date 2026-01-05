@@ -2,72 +2,40 @@
   "canary": "",
   "id": "BerwickPilato",
   "program": "",
+  "alphabet": "JgGdDeiWhHNvVmMjbBEow",
   "data": [
     {
-      "i": [],
-      "o": [
-        "JmVo"
-      ]
+      "o": "JmENo"
     },
     {
-      "i": [],
-      "o": [
-        "JMVo"
-      ]
+      "o": "JMEvo"
     },
     {
-      "i": [],
-      "o": [
-        "JMVo"
-      ]
+      "o": "JDeNo"
     },
     {
-      "i": [],
-      "o": [
-        "JGo"
-      ]
+      "o": "JDVo"
     },
     {
-      "i": [],
-      "o": [
-        "JhBvo"
-      ]
+      "o": "JDVo"
     },
     {
-      "i": [],
-      "o": [
-        "JMEvo"
-      ]
+      "o": "JwNo"
     },
     {
-      "i": [],
-      "o": [
-        "JDeNo"
-      ]
+      "o": "JmVo"
     },
     {
-      "i": [],
-      "o": [
-        "JwbNo"
-      ]
+      "o": "JiNo"
     },
     {
-      "i": [],
-      "o": [
-        "JHNo"
-      ]
+      "o": "JiNo"
     },
     {
-      "i": [],
-      "o": [
-        "JDVo"
-      ]
+      "o": "JGo"
     },
     {
-      "i": [],
-      "o": [
-        "Jgo"
-      ]
+      "o": "JGo"
     }
   ]
 }

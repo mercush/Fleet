@@ -2,72 +2,40 @@
   "canary": "",
   "id": "XXX",
   "program": "",
+  "alphabet": "ab",
   "data": [
     {
-      "i": [],
-      "o": [
-        "babbbabbbabb"
-      ]
+      "o": "aaa"
     },
     {
-      "i": [],
-      "o": [
-        "aaa"
-      ]
+      "o": "bababa"
     },
     {
-      "i": [],
-      "o": [
-        "aaa"
-      ]
+      "o": "bababa"
     },
     {
-      "i": [],
-      "o": [
-        "aaa"
-      ]
+      "o": "bababa"
     },
     {
-      "i": [],
-      "o": [
-        "aaaaaa"
-      ]
+      "o": "abbababbababbab"
     },
     {
-      "i": [],
-      "o": [
-        "baaabaaabaaa"
-      ]
+      "o": "bbaaabbbaaabbbaaab"
     },
     {
-      "i": [],
-      "o": [
-        "baabbabbbbaabbabbbbaabbabbb"
-      ]
+      "o": "bbb"
     },
     {
-      "i": [],
-      "o": [
-        "abaabaaba"
-      ]
+      "o": "bbb"
     },
     {
-      "i": [],
-      "o": [
-        "ababab"
-      ]
+      "o": "bbaabababbaabababbaababa"
     },
     {
-      "i": [],
-      "o": [
-        "abbaabbaabba"
-      ]
+      "o": "aabaabaab"
     },
     {
-      "i": [],
-      "o": [
-        "bbb"
-      ]
+      "o": "aaaaabbbaaaaaaabbbaaaaaaabbbaa"
     }
   ]
 }

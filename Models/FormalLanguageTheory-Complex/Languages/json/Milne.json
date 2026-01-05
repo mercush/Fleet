@@ -2,72 +2,40 @@
   "canary": "",
   "id": "Milne",
   "program": "",
+  "alphabet": "acdgf",
   "data": [
     {
-      "i": [],
-      "o": [
-        "adcgf"
-      ]
+      "o": "adcf"
     },
     {
-      "i": [],
-      "o": [
-        "acf"
-      ]
+      "o": "adcf"
     },
     {
-      "i": [],
-      "o": [
-        "acf"
-      ]
+      "o": "acgf"
     },
     {
-      "i": [],
-      "o": [
-        "acf"
-      ]
+      "o": "acgf"
     },
     {
-      "i": [],
-      "o": [
-        "adcfc"
-      ]
+      "o": "acgf"
     },
     {
-      "i": [],
-      "o": [
-        "adcfc"
-      ]
+      "o": "acfc"
     },
     {
-      "i": [],
-      "o": [
-        "acgf"
-      ]
+      "o": "adcfcg"
     },
     {
-      "i": [],
-      "o": [
-        "acgfcg"
-      ]
+      "o": "adcgf"
     },
     {
-      "i": [],
-      "o": [
-        "adcgfc"
-      ]
+      "o": "acf"
     },
     {
-      "i": [],
-      "o": [
-        "adcfcg"
-      ]
+      "o": "acgfcg"
     },
     {
-      "i": [],
-      "o": [
-        "acfc"
-      ]
+      "o": "acgfcg"
     }
   ]
 }

@@ -2,72 +2,40 @@
   "canary": "",
   "id": "Unequal",
   "program": "",
+  "alphabet": "ab",
   "data": [
     {
-      "i": [],
-      "o": [
-        "aabab"
-      ]
+      "o": "bababbb"
     },
     {
-      "i": [],
-      "o": [
-        "bbbbbbbababbaa"
-      ]
+      "o": "b"
     },
     {
-      "i": [],
-      "o": [
-        "a"
-      ]
+      "o": "b"
     },
     {
-      "i": [],
-      "o": [
-        "a"
-      ]
+      "o": "abaa"
     },
     {
-      "i": [],
-      "o": [
-        "bb"
-      ]
+      "o": "bbbbb"
     },
     {
-      "i": [],
-      "o": [
-        "bbbba"
-      ]
+      "o": "bbbab"
     },
     {
-      "i": [],
-      "o": [
-        "aab"
-      ]
+      "o": "aa"
     },
     {
-      "i": [],
-      "o": [
-        "aabaaab"
-      ]
+      "o": "aaaa"
     },
     {
-      "i": [],
-      "o": [
-        "baaaaab"
-      ]
+      "o": "aabababbaa"
     },
     {
-      "i": [],
-      "o": [
-        "abbabbab"
-      ]
+      "o": "bababbbbbb"
     },
     {
-      "i": [],
-      "o": [
-        "bba"
-      ]
+      "o": "a"
     }
   ]
 }

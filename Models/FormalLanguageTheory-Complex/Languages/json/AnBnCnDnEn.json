@@ -2,72 +2,40 @@
   "canary": "",
   "id": "AnBnCnDnEn",
   "program": "",
+  "alphabet": "abcde",
   "data": [
     {
-      "i": [],
-      "o": [
-        "abcde"
-      ]
+      "o": "aaaaaaaabbbbbbbbccccccccddddddddeeeeeeee"
     },
     {
-      "i": [],
-      "o": [
-        "abcde"
-      ]
+      "o": "abcde"
     },
     {
-      "i": [],
-      "o": [
-        "abcde"
-      ]
+      "o": "abcde"
     },
     {
-      "i": [],
-      "o": [
-        "abcde"
-      ]
+      "o": "abcde"
     },
     {
-      "i": [],
-      "o": [
-        "aaaaaabbbbbbccccccddddddeeeeee"
-      ]
+      "o": "abcde"
     },
     {
-      "i": [],
-      "o": [
-        "aaabbbcccdddeee"
-      ]
+      "o": "abcde"
     },
     {
-      "i": [],
-      "o": [
-        "aaabbbcccdddeee"
-      ]
+      "o": "abcde"
     },
     {
-      "i": [],
-      "o": [
-        "aaabbbcccdddeee"
-      ]
+      "o": "abcde"
     },
     {
-      "i": [],
-      "o": [
-        "aaaabbbbccccddddeeee"
-      ]
+      "o": "aaaaabbbbbcccccdddddeeeee"
     },
     {
-      "i": [],
-      "o": [
-        "aaaabbbbccccddddeeee"
-      ]
+      "o": "aaaaaaabbbbbbbcccccccdddddddeeeeeee"
     },
     {
-      "i": [],
-      "o": [
-        "aaaaabbbbbcccccdddddeeeee"
-      ]
+      "o": "aabbccddee"
     }
   ]
 }

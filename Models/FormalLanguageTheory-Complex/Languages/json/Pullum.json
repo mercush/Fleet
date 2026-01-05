@@ -2,72 +2,40 @@
   "canary": "",
   "id": "Pullum",
   "program": "",
+  "alphabet": "abcd",
   "data": [
     {
-      "i": [],
-      "o": [
-        "addddb"
-      ]
+      "o": "addb"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "accccddcb"
-      ]
+      "o": "acddb"
     },
     {
-      "i": [],
-      "o": [
-        "accdcdb"
-      ]
+      "o": "acdccccdb"
     },
     {
-      "i": [],
-      "o": [
-        "adcdb"
-      ]
+      "o": "adccddccdb"
     },
     {
-      "i": [],
-      "o": [
-        "adccdb"
-      ]
+      "o": "addcccccddcccccb"
     }
   ]
 }

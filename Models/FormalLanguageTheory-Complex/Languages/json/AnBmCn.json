@@ -2,72 +2,40 @@
   "canary": "",
   "id": "AnBmCn",
   "program": "",
+  "alphabet": "abcd",
   "data": [
     {
-      "i": [],
-      "o": [
-        "abbc"
-      ]
+      "o": "abc"
     },
     {
-      "i": [],
-      "o": [
-        "abc"
-      ]
+      "o": "abc"
     },
     {
-      "i": [],
-      "o": [
-        "aaabbbccc"
-      ]
+      "o": "abc"
     },
     {
-      "i": [],
-      "o": [
-        "aaabccc"
-      ]
+      "o": "aabbbcc"
     },
     {
-      "i": [],
-      "o": [
-        "aaaabbbcccc"
-      ]
+      "o": "aabbbbcc"
     },
     {
-      "i": [],
-      "o": [
-        "aabbcc"
-      ]
+      "o": "aaaaaabcccccc"
     },
     {
-      "i": [],
-      "o": [
-        "aabbcc"
-      ]
+      "o": "aaabccc"
     },
     {
-      "i": [],
-      "o": [
-        "aabcc"
-      ]
+      "o": "abbbbbc"
     },
     {
-      "i": [],
-      "o": [
-        "abbbc"
-      ]
+      "o": "aaaaaaaaaaabccccccccccc"
     },
     {
-      "i": [],
-      "o": [
-        "abbbbbbc"
-      ]
+      "o": "aabbcc"
     },
     {
-      "i": [],
-      "o": [
-        "aaaabcccc"
-      ]
+      "o": "aaaaaabbbbbbbbcccccc"
     }
   ]
 }

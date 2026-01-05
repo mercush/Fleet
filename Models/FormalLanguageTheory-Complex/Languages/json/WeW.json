@@ -2,72 +2,40 @@
   "canary": "",
   "id": "WeW",
   "program": "",
+  "alphabet": "ab",
   "data": [
     {
-      "i": [],
-      "o": [
-        "aaabbabaaabbabaaabbabaaabbabaaabbabaaabbabaaabbab"
-      ]
+      "o": "bbbbbbbbbbbbbbbb"
     },
     {
-      "i": [],
-      "o": [
-        "aaaa"
-      ]
+      "o": "bbbb"
     },
     {
-      "i": [],
-      "o": [
-        "bbbaabbbbaabbbbaabbbbaabbbbaabbbbaab"
-      ]
+      "o": "b"
     },
     {
-      "i": [],
-      "o": [
-        "aaabbaaabbaaabbaaabbaaabb"
-      ]
+      "o": "b"
     },
     {
-      "i": [],
-      "o": [
-        "bbbabbbabbbabbba"
-      ]
+      "o": "b"
     },
     {
-      "i": [],
-      "o": [
-        "baba"
-      ]
+      "o": "b"
     },
     {
-      "i": [],
-      "o": [
-        "baba"
-      ]
+      "o": "aaaaaaaaaaaaaaaa"
     },
     {
-      "i": [],
-      "o": [
-        "abbbaaabbbaaabbbaaabbbaaabbbaaabbbaa"
-      ]
+      "o": "abaabaaba"
     },
     {
-      "i": [],
-      "o": [
-        "a"
-      ]
+      "o": "bbaabbaabbaabbaa"
     },
     {
-      "i": [],
-      "o": [
-        "a"
-      ]
+      "o": "a"
     },
     {
-      "i": [],
-      "o": [
-        "babbabbab"
-      ]
+      "o": "baaababbaaababbaaababbaaababbaaababbaaababbaaabab"
     }
   ]
 }

@@ -2,72 +2,40 @@
   "canary": "",
   "id": "AnB2nC3n",
   "program": "",
+  "alphabet": "abcd",
   "data": [
     {
-      "i": [],
-      "o": [
-        "aaaaaabbbbbbbbbbbbcccccccccccccccccc"
-      ]
+      "o": "abbccc"
     },
     {
-      "i": [],
-      "o": [
-        "aaaabbbbbbbbcccccccccccc"
-      ]
+      "o": "abbccc"
     },
     {
-      "i": [],
-      "o": [
-        "aabbbbcccccc"
-      ]
+      "o": "abbccc"
     },
     {
-      "i": [],
-      "o": [
-        "aabbbbcccccc"
-      ]
+      "o": "abbccc"
     },
     {
-      "i": [],
-      "o": [
-        "aabbbbcccccc"
-      ]
+      "o": "aabbbbcccccc"
     },
     {
-      "i": [],
-      "o": [
-        "aabbbbcccccc"
-      ]
+      "o": "aabbbbcccccc"
     },
     {
-      "i": [],
-      "o": [
-        "abbccc"
-      ]
+      "o": "aaaaabbbbbbbbbbccccccccccccccc"
     },
     {
-      "i": [],
-      "o": [
-        "abbccc"
-      ]
+      "o": "aaaabbbbbbbbcccccccccccc"
     },
     {
-      "i": [],
-      "o": [
-        "aaabbbbbbccccccccc"
-      ]
+      "o": "aaaabbbbbbbbcccccccccccc"
     },
     {
-      "i": [],
-      "o": [
-        "aaabbbbbbccccccccc"
-      ]
+      "o": "aaaabbbbbbbbcccccccccccc"
     },
     {
-      "i": [],
-      "o": [
-        "aaabbbbbbccccccccc"
-      ]
+      "o": "aaaaaaaaaabbbbbbbbbbbbbbbbbbbbcccccccccccccccccccccccccccccc"
     }
   ]
 }

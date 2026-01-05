@@ -2,72 +2,40 @@
   "canary": "",
   "id": "ABnen",
   "program": "",
+  "alphabet": "abcd",
   "data": [
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "ab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "abababab"
     },
     {
-      "i": [],
-      "o": [
-        "abababab"
-      ]
+      "o": "abababab"
     },
     {
-      "i": [],
-      "o": [
-        "abababab"
-      ]
+      "o": "abababab"
     }
   ]
 }

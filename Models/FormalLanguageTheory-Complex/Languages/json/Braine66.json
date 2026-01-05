@@ -2,72 +2,40 @@
   "canary": "",
   "id": "Braine66",
   "program": "",
+  "alphabet": "bdrgknfGmylsew",
   "data": [
     {
-      "i": [],
-      "o": [
-        "frgGms"
-      ]
+      "o": "Gls"
     },
     {
-      "i": [],
-      "o": [
-        "fbd"
-      ]
+      "o": "Gmsfn"
     },
     {
-      "i": [],
-      "o": [
-        "fbd"
-      ]
+      "o": "Gye"
     },
     {
-      "i": [],
-      "o": [
-        "fbdGmw"
-      ]
+      "o": "Glsfn"
     },
     {
-      "i": [],
-      "o": [
-        "fn"
-      ]
+      "o": "fnGme"
     },
     {
-      "i": [],
-      "o": [
-        "fn"
-      ]
+      "o": "Gys"
     },
     {
-      "i": [],
-      "o": [
-        "Gms"
-      ]
+      "o": "Gys"
     },
     {
-      "i": [],
-      "o": [
-        "Gysfk"
-      ]
+      "o": "Glwfn"
     },
     {
-      "i": [],
-      "o": [
-        "fk"
-      ]
+      "o": "fbd"
     },
     {
-      "i": [],
-      "o": [
-        "fk"
-      ]
+      "o": "Gmw"
     },
     {
-      "i": [],
-      "o": [
-        "fk"
-      ]
+      "o": "Gyefbd"
     }
   ]
 }

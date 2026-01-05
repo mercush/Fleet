@@ -18,7 +18,7 @@ if __name__ == '__main__':
     examples = []
     for string, count in counter.items():
         for _ in range(count):
-            examples.append({{"i": [], "o": [string]}})
+            examples.append({"o": string})
             if len(examples) >= 11:
                 break
         if len(examples) >= 11:

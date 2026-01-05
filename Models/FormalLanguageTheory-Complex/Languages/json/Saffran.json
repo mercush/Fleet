@@ -2,72 +2,40 @@
   "canary": "",
   "id": "Saffran",
   "program": "",
+  "alphabet": "tprglbBdkPDT",
   "data": [
     {
-      "i": [],
-      "o": [
-        "tprPDT"
-      ]
+      "o": "tpr"
     },
     {
-      "i": [],
-      "o": [
-        "PDT"
-      ]
+      "o": "tpr"
     },
     {
-      "i": [],
-      "o": [
-        "PDT"
-      ]
+      "o": "tpr"
     },
     {
-      "i": [],
-      "o": [
-        "tprPDTPDTglbPDT"
-      ]
+      "o": "glb"
     },
     {
-      "i": [],
-      "o": [
-        "glbglbBdk"
-      ]
+      "o": "tprglb"
     },
     {
-      "i": [],
-      "o": [
-        "PDTglbPDTPDT"
-      ]
+      "o": "BdkBdktprtprglb"
     },
     {
-      "i": [],
-      "o": [
-        "PDTtprPDT"
-      ]
+      "o": "tprtprBdktprglbglb"
     },
     {
-      "i": [],
-      "o": [
-        "BdkglbBdkglbtprglb"
-      ]
+      "o": "PDTPDTBdkBdk"
     },
     {
-      "i": [],
-      "o": [
-        "glbPDT"
-      ]
+      "o": "glbtprtprglbBdktprglbBdkglbPDTBdktprtprBdk"
     },
     {
-      "i": [],
-      "o": [
-        "PDTglb"
-      ]
+      "o": "PDTPDTglbtprBdk"
     },
     {
-      "i": [],
-      "o": [
-        "tprglbBdk"
-      ]
+      "o": "PDTPDTglb"
     }
   ]
 }

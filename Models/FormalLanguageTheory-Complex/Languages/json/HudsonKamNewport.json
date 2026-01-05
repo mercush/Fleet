@@ -2,72 +2,40 @@
   "canary": "",
   "id": "HudsonKamNewport",
   "program": "",
+  "alphabet": "!vVnd",
   "data": [
     {
-      "i": [],
-      "o": [
-        "!vNP"
-      ]
+      "o": "Vndnd"
     },
     {
-      "i": [],
-      "o": [
-        "!vNP"
-      ]
+      "o": "Vndnd"
     },
     {
-      "i": [],
-      "o": [
-        "!VNPNP"
-      ]
+      "o": "Vndn"
     },
     {
-      "i": [],
-      "o": [
-        "!VNPNP"
-      ]
+      "o": "Vndn"
     },
     {
-      "i": [],
-      "o": [
-        "VNPNP"
-      ]
+      "o": "vn"
     },
     {
-      "i": [],
-      "o": [
-        "VNPNP"
-      ]
+      "o": "!vn"
     },
     {
-      "i": [],
-      "o": [
-        "VNPNP"
-      ]
+      "o": "!vn"
     },
     {
-      "i": [],
-      "o": [
-        "vNP"
-      ]
+      "o": "vnd"
     },
     {
-      "i": [],
-      "o": [
-        "vNP"
-      ]
+      "o": "!Vndnd"
     },
     {
-      "i": [],
-      "o": [
-        "vNP"
-      ]
+      "o": "!Vnnd"
     },
     {
-      "i": [],
-      "o": [
-        "vNP"
-      ]
+      "o": "!Vnn"
     }
   ]
 }

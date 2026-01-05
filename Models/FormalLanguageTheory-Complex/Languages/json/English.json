@@ -2,72 +2,40 @@
   "canary": "",
   "id": "English",
   "program": "",
+  "alphabet": "dnavtp",
   "data": [
     {
-      "i": [],
-      "o": [
-        "nvpdn"
-      ]
+      "o": "dnvtnvtdanvtnvn"
     },
     {
-      "i": [],
-      "o": [
-        "nvdan"
-      ]
+      "o": "dnvpdnpnpdanpdaanpdan"
     },
     {
-      "i": [],
-      "o": [
-        "nvdanpn"
-      ]
+      "o": "nv"
     },
     {
-      "i": [],
-      "o": [
-        "npnvdan"
-      ]
+      "o": "nv"
     },
     {
-      "i": [],
-      "o": [
-        "npdanv"
-      ]
+      "o": "npdnv"
     },
     {
-      "i": [],
-      "o": [
-        "dnvdnpn"
-      ]
+      "o": "dnvdan"
     },
     {
-      "i": [],
-      "o": [
-        "dnvn"
-      ]
+      "o": "dnvdan"
     },
     {
-      "i": [],
-      "o": [
-        "danvtnv"
-      ]
+      "o": "dnv"
     },
     {
-      "i": [],
-      "o": [
-        "dnv"
-      ]
+      "o": "danv"
     },
     {
-      "i": [],
-      "o": [
-        "danv"
-      ]
+      "o": "nvtdnpdanvtnpnvn"
     },
     {
-      "i": [],
-      "o": [
-        "nvn"
-      ]
+      "o": "danvtdnvtdanpdnpdanpdnpdanvdn"
     }
   ]
 }

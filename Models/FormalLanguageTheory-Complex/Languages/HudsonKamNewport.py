@@ -74,7 +74,7 @@ if __name__ == '__main__':
                         help='Number of examples to generate (default: 11)')
     args = parser.parse_args()
 
-    language = HudsonKamNewport()
+    language = HudsonKamNewport60()
     data_output = language.sample_data(args.num_examples)
 
     # Extract strings from Counter and create example list
@@ -82,7 +82,7 @@ if __name__ == '__main__':
     examples = []
     for string, count in counter.items():
         for _ in range(count):
-            examples.append({"i": [], "o": [string]})
+            examples.append({"o": string})
             if len(examples) >= args.num_examples:
                 break
         if len(examples) >= args.num_examples:
@@ -93,6 +93,7 @@ if __name__ == '__main__':
         "canary": "",
         "id": "HudsonKamNewport",
         "program": "",
+        "alphabet": "!vVnd",
         "data": examples[:args.num_examples]
     }
 

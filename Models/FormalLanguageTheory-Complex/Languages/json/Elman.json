@@ -2,72 +2,40 @@
   "canary": "",
   "id": "Elman",
   "program": "",
+  "alphabet": "badigu",
   "data": [
     {
-      "i": [],
-      "o": [
-        "guuudii"
-      ]
+      "o": "dii"
     },
     {
-      "i": [],
-      "o": [
-        "diidiiguuudii"
-      ]
+      "o": "dii"
     },
     {
-      "i": [],
-      "o": [
-        "baa"
-      ]
+      "o": "dii"
     },
     {
-      "i": [],
-      "o": [
-        "baa"
-      ]
+      "o": "guuubaadiiguuuguuudii"
     },
     {
-      "i": [],
-      "o": [
-        "baa"
-      ]
+      "o": "guuu"
     },
     {
-      "i": [],
-      "o": [
-        "guuuguuubaadii"
-      ]
+      "o": "guuu"
     },
     {
-      "i": [],
-      "o": [
-        "baaguuuguuudii"
-      ]
+      "o": "diiguuubaabaa"
     },
     {
-      "i": [],
-      "o": [
-        "guuudiidii"
-      ]
+      "o": "baa"
     },
     {
-      "i": [],
-      "o": [
-        "diidiibaa"
-      ]
+      "o": "guuuguuubaadii"
     },
     {
-      "i": [],
-      "o": [
-        "baadiiguuuguuudiibaabaadiidiidiidii"
-      ]
+      "o": "diiguuudii"
     },
     {
-      "i": [],
-      "o": [
-        "guuubaadii"
-      ]
+      "o": "guuudiidii"
     }
   ]
 }

@@ -2,72 +2,40 @@
   "canary": "",
   "id": "ChineseNumeral",
   "program": "",
+  "alphabet": "ab",
   "data": [
     {
-      "i": [],
-      "o": [
-        "abbbbbbbabbb"
-      ]
+      "o": "abbbbbbbbabbbbbbabbbbabbb"
     },
     {
-      "i": [],
-      "o": [
-        "abbbb"
-      ]
+      "o": "abbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbabbbbbbbbbbabbbbbbbabbbbbbabbbbbabbbb"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "abbbbbbbabbbbbbabbbbbabbbabbab"
     },
     {
-      "i": [],
-      "o": [
-        "ab"
-      ]
+      "o": "abbab"
     },
     {
-      "i": [],
-      "o": [
-        "abbbbbbbbabbbbbbbabbbb"
-      ]
+      "o": "abbab"
     },
     {
-      "i": [],
-      "o": [
-        "abbab"
-      ]
+      "o": "abbab"
     },
     {
-      "i": [],
-      "o": [
-        "abbab"
-      ]
+      "o": "abbbbbbbbabbbbbbbabbbbbbabbbbbabb"
     },
     {
-      "i": [],
-      "o": [
-        "abbbbbbbbabbbb"
-      ]
+      "o": "abbbbbbbabbbb"
     },
     {
-      "i": [],
-      "o": [
-        "abbbbbbbbabbbbbb"
-      ]
+      "o": "abbbbbabbbbabb"
     },
     {
-      "i": [],
-      "o": [
-        "abbb"
-      ]
+      "o": "abbbbbbbbbabbbbb"
     },
     {
-      "i": [],
-      "o": [
-        "abbbbbbbbbbbabbbbabb"
-      ]
+      "o": "abb"
     }
   ]
 }
